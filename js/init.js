@@ -1,5 +1,5 @@
 //Hook up the tweet display
-CountDownTimer('09/16/2024 04:40 PM UTC');
+CountDownTimer('08/16/2024 04:40 PM UTC');
 
 function CountDownTimer(dt) {
 	const end = new Date(dt);
